@@ -14,19 +14,4 @@ This is a simple HTML and CSS project built as part of the FreeCodeCamp curricul
 - HTML5
 - CSS3
 
-## 🌐 Live Demo
-
-[View it on GitHub Pages](https://your-username.github.io/cafe-menu/)
-
-## 📁 How to Use
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/cafe-menu.git
-   ```
-
-2. Open `index.html` in your browser.
-
----
-
 Created as a project for [FreeCodeCamp](https://www.freecodecamp.org/)
